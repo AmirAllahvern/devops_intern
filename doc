@@ -1,0 +1,9 @@
+What's the difference between a Service and a Deployment in Kubernetes? A deployment is responsible for keeping a set of pods running. A service is responsible for enabling network access to a set of pods. We could use a deployment without a service to keep a set of identical pods running in the Kubernetes cluster.
+
+
+https://medium.com/tailwinds-navigator/kubernetes-tip-why-disable-swap-on-linux-3505f0250263
+
+https://medium.com/dzerolabs/just-in-time-kubernetes-a-beginners-guide-to-kubernetes-core-concepts-19ee7acbafa1
+
+
+https://matthewpalmer.net/kubernetes-app-developer/articles/service-kubernetes-example-tutorial.html
